@@ -1,0 +1,56 @@
+    1  pwd
+    2  ls
+    3  touch demo.txt
+    4  ls
+    5  touch file{1..10}.txt
+    6  ls
+    7  cd ..
+    8  cd gist-172u1a0539
+    9  cd d:
+   10  pwd
+   11  cd e:
+   12  pwd
+   13  cd c:
+   14  pwd
+   15  ctrl+L
+   16  cd c:
+   17  pwd
+   18  cd C:\Users\dell\Desktop\gist-172u1a0539
+   19  ls
+   20  echo hello
+   21  touch hello.txt
+   22  ls
+   23  cat hello.txt
+   24  echo {1..100}
+   25  echo {1..100}>>hello.txt
+   26  cat hello.txt
+   27  touch myfiles{1..100}.txt
+   28  rm *.txt
+   29  touch file1.txt
+   30  cat file1.txt>>file2.txt
+   31  cat file1.txt
+   32  pwd
+   33  ls
+   34  rmdir GIST
+   35  LS
+   36  rm first.txt
+   37  ls
+   38  rm file{1..10}.txt
+   39  rm *.txt
+   40  ls
+   41  nano myfile.txt
+   42  cat myfile.txt
+   43  nano myfile.txt
+   44  cat myfile.txt
+   45  echo "Hello" >> myfile2.txt
+   46  cat myfile2.txt
+   47  echo {1..1000} >> myfile3.txt
+   48  cat myfile3.txt
+   49  mv myfile3.txt myfile2.txt
+   50  cat myfile2.txt
+   51  ls
+   52  cp myfile2.txt myfile.txt
+   53  cat myfile.txt
+   54  ls
+   55  history 
+   56  history >> history.txt
